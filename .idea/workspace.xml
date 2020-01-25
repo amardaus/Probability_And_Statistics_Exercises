@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="PI" targetName="PI" />
+      <config projectName="PI" targetName="Chi_square" />
+      <config projectName="PI" targetName="Poisson" />
+      <config projectName="PI" targetName="Trapezoid" />
+      <config projectName="PI" targetName="SinX" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63756846-7987-4997-b2b5-ba65857317b1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1SyEnYRgDu2yCNFl0cN2xZ1Zhbd" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Zadania" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Zadania/PseudoRandomGenerator" />
+      <recent name="$PROJECT_DIR$/Zadania/Poisson" />
+      <recent name="$PROJECT_DIR$/Zadania/PI" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Zadania" />
+      <recent name="$PROJECT_DIR$/PI" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.SinX">
+    <configuration name="Chi_square" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PI" TARGET_NAME="Chi_square" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PI" RUN_TARGET_NAME="Chi_square">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PI" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PI" TARGET_NAME="PI" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PI" RUN_TARGET_NAME="PI">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Poisson" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PI" TARGET_NAME="Poisson" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PI" RUN_TARGET_NAME="Poisson">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinX" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PI" TARGET_NAME="SinX" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PI" RUN_TARGET_NAME="SinX">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trapezoid" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PI" TARGET_NAME="Trapezoid" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PI" RUN_TARGET_NAME="Trapezoid">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Chi_square" />
+      <item itemvalue="CMake Application.PI" />
+      <item itemvalue="CMake Application.Poisson" />
+      <item itemvalue="CMake Application.SinX" />
+      <item itemvalue="CMake Application.Trapezoid" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63756846-7987-4997-b2b5-ba65857317b1" name="Default Changelist" comment="" />
+      <created>1572527602208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572527602208</updated>
+      <workItem from="1572527603364" duration="2100000" />
+      <workItem from="1572529758270" duration="80000" />
+      <workItem from="1578335421738" duration="3469000" />
+      <workItem from="1578341969244" duration="5482000" />
+      <workItem from="1578350347633" duration="2780000" />
+      <workItem from="1578417256254" duration="4117000" />
+      <workItem from="1578495918109" duration="5000" />
+      <workItem from="1578574357949" duration="82000" />
+      <workItem from="1578870735351" duration="500000" />
+      <workItem from="1578901495048" duration="3317000" />
+      <workItem from="1579007317597" duration="1400000" />
+      <workItem from="1579016952082" duration="4000" />
+      <workItem from="1579026672596" duration="351000" />
+      <workItem from="1579027141077" duration="551000" />
+      <workItem from="1579027943036" duration="572000" />
+      <workItem from="1579036961575" duration="905000" />
+      <workItem from="1579076463364" duration="400000" />
+      <workItem from="1579093578928" duration="1073000" />
+      <workItem from="1579100904126" duration="2289000" />
+      <workItem from="1579122094244" duration="1778000" />
+      <workItem from="1579768319769" duration="1493000" />
+      <workItem from="1579769829087" duration="1284000" />
+      <workItem from="1579778464555" duration="7574000" />
+      <workItem from="1579808137242" duration="9000" />
+      <workItem from="1579939897400" duration="2533000" />
+      <workItem from="1579989515442" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
